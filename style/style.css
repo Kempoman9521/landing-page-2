@@ -15,18 +15,19 @@ box-sizing: border-box;
 /* header */
 
 .header-text{
-display: flex;
 font-family:Georgia, 'Times New Roman', Times, serif;
 background-color: #1f2937;
 color:#F9FAF8;
 }
 
-ul{
+ul, .logo{
     list-style: none;
     display: flex;
     gap: 15px;
     margin: 0;
     padding: 0;
 }
+
+
 
 
