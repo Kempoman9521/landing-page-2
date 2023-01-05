@@ -7,10 +7,10 @@ body{
 }
 
 *{
-    border-style: solid;
+    /* border-style: solid;
     border-color: red;
+    padding:10px */
     box-sizing: border-box;
-    padding:10px
 }
 
 /* top/header css */
@@ -21,6 +21,7 @@ body{
 
 .header{
     display: flex;
+    justify-content: space-around;
 }
 
 .logo{
@@ -44,6 +45,8 @@ img{
 }
 .intro-image{
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 button{
@@ -51,6 +54,7 @@ button{
     color:#f9faf8;
     border-radius: 10px;
     font-size: 18px;
+    border-color:#3882faf8;
 }
 
 .intro-title{
