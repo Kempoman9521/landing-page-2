@@ -11,5 +11,11 @@ box-sizing: border-box;
 
 .header-text{
 display: flex;
-font-family:"Roboto";
+font-family:Georgia, 'Times New Roman', Times, serif;
+background-color: #1f2937;
+color:#F9FAF8;
+}
+
+{
+
 }
