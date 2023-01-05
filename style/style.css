@@ -84,3 +84,8 @@ button{
     display: flex;
     flex-direction:column;
 }
+
+.content-boxes{
+    display: flex;
+}
+
