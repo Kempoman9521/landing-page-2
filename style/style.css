@@ -97,6 +97,11 @@ button{
     height: 120px;
 }
 
+.box-text{
+font-size: 18px;
+
+}
+
 .content-title{
 font-size: 36px;
 color:#1F2937
