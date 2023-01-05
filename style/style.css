@@ -89,3 +89,8 @@ button{
     display: flex;
 }
 
+.box{
+    border-style: solid;
+    border-color: #3882f6;
+    
+}
