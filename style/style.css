@@ -53,8 +53,11 @@ img{
 h1{
     font-size: 48px;
 }
+.logo,h1{
+    font-weight: bolder;
+}
 
-.intro, button, .li{
+.intro, button, li{
     font-size: 18px;
 }
 .logo{
