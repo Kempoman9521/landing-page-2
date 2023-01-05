@@ -7,9 +7,9 @@ body{
 }
 
 *{
-    /* border-style: solid;
+     border-style: solid;
     border-color: red;
-    padding:10px */
+    padding:10px;
     box-sizing: border-box;
 }
 
@@ -22,7 +22,7 @@ body{
 
 .header{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     padding-top:10px ;
     padding-bottom:5em;
 }
@@ -69,6 +69,7 @@ button{
 .intro-title{
     font-size: 48px;
     font-weight: bolder;
+    margin: 0;
 }
 
 .intro-text{
