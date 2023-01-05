@@ -49,6 +49,10 @@ img{
     align-items: center;
 }
 
+.intro{
+    width: 400px;
+}
+
 button{
     background-color: #3882faf8;
     color:#f9faf8;
