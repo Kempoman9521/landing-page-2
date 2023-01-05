@@ -10,9 +10,14 @@ body{
 
 .header{
     display: flex;
-    
 }
 
 img{
     width: 400px;
+}
+
+*{
+    border-style: solid;
+    border-color: red;
+    padding: 10px;
 }
