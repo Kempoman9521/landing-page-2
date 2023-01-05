@@ -80,3 +80,7 @@ button{
 
 /* content css */
 
+.content{
+    display: flex;
+    flex-direction:column;
+}
