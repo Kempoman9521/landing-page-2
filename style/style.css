@@ -14,11 +14,15 @@ box-sizing: border-box;
 
 /* header */
 
-.header-text{
-font-family:Georgia, 'Times New Roman', Times, serif;
-background-color: #1f2937;
+.header{
+    background-color: #1f2937;
+    fot-family:Georgia, 'Times New Roman', Times, serif;
 color:#F9FAF8;
 }
+
+
+
+
 
 ul, .logo{
     list-style: none;
@@ -26,8 +30,10 @@ ul, .logo{
     gap: 15px;
     margin: 0;
     padding: 0;
+    justify-content: center;
+    align-items: center;
 }
 
-
-
+.logo{
+}
 
