@@ -25,7 +25,7 @@ padding-bottom: 4em;
 }
 
 .header-links{
-    justify-content: center;
+    justify-content: space-evenly;
     display: flex;
   
 }
