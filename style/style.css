@@ -30,8 +30,6 @@ padding-bottom: 4em;
   
 }
 
-
-
 ul, .logo{
     list-style: none;
     display: flex;
@@ -40,6 +38,12 @@ ul, .logo{
     padding: 0;
 }
 
-.logo{
+
+img{
+    width: 200px;
 }
 
+.container{
+    display: flex;
+    justify-content: center;
+}
