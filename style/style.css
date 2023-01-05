@@ -7,6 +7,11 @@ box-sizing: border-box;
     box-sizing: inherit;
 }
 
+/* main */
+.main{
+    margin: 0;
+}
+
 /* header */
 
 .header-text{
