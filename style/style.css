@@ -109,4 +109,8 @@ display: flex;
 justify-content: center;
 }
 
+.wrapper{
+ width: 150px;
+}
+
 
