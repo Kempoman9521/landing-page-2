@@ -10,6 +10,8 @@ box-sizing: border-box;
 /* main */
 .main{
     margin: 0;
+    display: flex;
+    flex-direction: column;
 }
 
 /* header */
@@ -18,11 +20,14 @@ box-sizing: border-box;
     background-color: #1f2937;
     font-family:Georgia, 'Times New Roman', Times, serif;
 color:#F9FAF8;
+padding-top: 10px;
+padding-bottom: 4em;
 }
 
 .header-links{
     justify-content: center;
     display: flex;
+  
 }
 
 
