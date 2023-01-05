@@ -27,6 +27,8 @@ padding-bottom: 4em;
 .header-links{
     justify-content: space-evenly;
     display: flex;
+    padding-top: 25px;
+    padding-bottom: 35px;
   
 }
 
@@ -40,7 +42,8 @@ ul, .logo{
 
 
 img{
-    width: 200px;
+    width: 400px;
+    height: 200px;
 }
 
 .container{
