@@ -50,6 +50,7 @@ button{
     background-color: #3882faf8;
     color:#f9faf8;
     border-radius: 10px;
+    font-size: 18px;
 }
 
 .intro-title{
@@ -57,5 +58,8 @@ button{
     font-weight: bolder;
 }
 
+.intro-text{
+    font-size: 18px;
+}
 
 
