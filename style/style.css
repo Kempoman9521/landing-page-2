@@ -15,8 +15,12 @@ body{
 }
  ul{
     display: flex;
+    
  }
 
+ li{
+    list-style: none;
+ }
 
 img{
     width: 400px;
