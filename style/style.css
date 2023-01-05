@@ -2,15 +2,21 @@ body{
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    margin: 0;
 }
 
 *{
+    padding: 10px;
     box-sizing: border-box;
 }
-
+/* top css */
 .header{
     display: flex;
 }
+ ul{
+    display: flex;
+ }
+
 
 img{
     width: 400px;
@@ -19,5 +25,9 @@ img{
 *{
     border-style: solid;
     border-color: red;
-    padding: 10px;
+    ;
+}
+
+.top{
+    background-color: #1F2937;
 }
