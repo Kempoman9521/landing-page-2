@@ -6,3 +6,10 @@ box-sizing: border-box;
 *::after{
     box-sizing: inherit;
 }
+
+/* header */
+
+.header-text{
+display: flex;
+font-family:"Roboto";
+}
