@@ -16,11 +16,15 @@ body{
 /* top/header css */
 .top{
     background-color: #1F2937;
-    color: #f9faf8
+    color: #f9faf8;
 }
 
 .header{
     display: flex;
+}
+
+.logo{
+    font-size: 24px;
 }
 
  ul{
