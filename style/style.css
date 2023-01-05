@@ -20,7 +20,10 @@ box-sizing: border-box;
 color:#F9FAF8;
 }
 
-
+.header-links{
+    justify-content: center;
+    display: flex;
+}
 
 
 
@@ -30,8 +33,6 @@ ul, .logo{
     gap: 15px;
     margin: 0;
     padding: 0;
-    justify-content: center;
-    align-items: center;
 }
 
 .logo{
