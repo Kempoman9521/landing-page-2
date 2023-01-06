@@ -121,4 +121,6 @@ justify-content: space-arounds;
 
 .quote-wrapper{
     background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
 }
