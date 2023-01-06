@@ -137,3 +137,7 @@ justify-content: space-arounds;
     display: flex;
     background-color: #3882f6;
 }
+
+.blue-title, .blue-text{
+    color: #f9faf8;
+}
