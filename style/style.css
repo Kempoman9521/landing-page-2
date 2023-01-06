@@ -117,4 +117,8 @@ justify-content: space-arounds;
  align-items: center;
 }
 
+/* quote section css */
 
+.quote-wrapper{
+    background-color: #e5e7eb;
+}
