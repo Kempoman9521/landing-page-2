@@ -135,7 +135,7 @@ justify-content: space-arounds;
 
 .blue-box{
     display: flex;
-    background-color: #3882f6;
+
 }
 
 .blue-title, .blue-text{
@@ -149,4 +149,8 @@ font-weight: bold;
 
 .blue-text{
     font-size: 18px;
+}
+
+.blue-box-text, .blue-button{
+    background-color: #3882f6;
 }
