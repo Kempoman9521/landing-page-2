@@ -163,3 +163,6 @@ font-weight: bold;
 .blue-button{
     display: flex;
 }
+.button-text{
+    display: flex;
+}
