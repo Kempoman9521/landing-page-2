@@ -138,6 +138,7 @@ justify-content: space-arounds;
 .blue-box{
     display: flex;
     justify-content: center;
+    padding: 50px;
 
 }
 
@@ -152,6 +153,7 @@ font-weight: bold;
 
 .blue-text{
     font-size: 18px;
+    margin: 0;
 }
 
 .blue-box-text, .blue-button{
@@ -159,7 +161,7 @@ font-weight: bold;
 }
 
 .blue-box-text{
-  padding: 50px;
+  
 }
 
 .blue-button{
