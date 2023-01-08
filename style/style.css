@@ -158,6 +158,9 @@ font-weight: bold;
 
 .blue-box-text, .blue-button{
     background-color: #3882f6;
+    border-radius: 20px;
+    padding-left:50px ;
+    padding-right:50px;
 }
 
 .blue-box-text{
