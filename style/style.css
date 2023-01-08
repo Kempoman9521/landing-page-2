@@ -124,11 +124,13 @@ justify-content: space-arounds;
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 100px;
 }
 
 .quote{
     width: 700px;
     font-size: 18px;
+  
 }
 
 /* blue box section css */
@@ -157,7 +159,7 @@ font-weight: bold;
 }
 
 .blue-box-text{
-  
+  padding: 50px;
 }
 
 .blue-button{
